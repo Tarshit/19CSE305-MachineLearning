@@ -1,3 +1,5 @@
 # 19CSE305-MachineLearning
 
-### Privacy and security in Recommender Sytems (Collabrative Filtering)
+## Project
+
+#### Security (profile injection attack) and Privacy Issues against Collaborative filtering in Recommender Systems
